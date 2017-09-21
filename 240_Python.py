@@ -20,9 +20,9 @@ def gmaps(query):
   url = "https://maps.google.com/maps?q={0}&output=embed".format(query)
   display(IFrame(url, '700px', '450px'))
 
-gmaps("Golden Gate Bridge")
+gmaps("The Capital Hill")
 
-gmaps("Nashville,TN")
+gmaps("McLean, VA")
 
 # Worker Engines
 # -----------------
