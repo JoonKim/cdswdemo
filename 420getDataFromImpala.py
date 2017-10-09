@@ -1,8 +1,4 @@
 #
-#
-# SORRY - THIS EXAMPLE IS BROKEN
-# it is on my to-do list to fix 
-#
 # reset stuff                                               
 #!pip uninstall -y sasl
 #!pip uninstall -y impyla
