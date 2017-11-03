@@ -1,4 +1,4 @@
-thisIsAString <- "hello from R in cdsw"
+thisIsAString <- "hello from R in Cloudera Data Science Workbench"
 print ( thisIsAString )
 
 # This is how install sparklyr 
